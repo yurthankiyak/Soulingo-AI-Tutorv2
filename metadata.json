@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Soulingo English Tutorv2",
+  "description": "Soulingo, an AI-powered English tutor for Turkish university students and professionals, offering vision analysis for real-world context and grammar correction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
